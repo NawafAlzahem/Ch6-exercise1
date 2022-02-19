@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ch6-exercise</string>
+    <string name="txtSplash">Sounds of the Caribbean</string>
+    <string name="marimba">play marimba song</string>
+    <string name="merenque">play merenque song</string>
+</resources>
